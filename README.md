@@ -1,4 +1,10 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=b7acfa&height=300&section=header&text=circle-done&fontSize=90&fontColor=fff)
+
+<div align="center">
+  <h3>✨ Introduce ✨</h3>
+  <p>🐤 I’m learning 🐤</p>  
+</div>
+
 
 <!--
 **DahamWeon/DahamWeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
