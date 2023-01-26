@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=b7acfa&height=300&section=header&text=circle-done&fontSize=90&fontColor=fff)
 
 <div align="center">
-  <h3>✨ Introduce ✨</h3>
-  <p>🐤 I’m learning 🐤</p>  
+  <h3>✨ I'm learning ✨</h3>
 </div>
 
 
