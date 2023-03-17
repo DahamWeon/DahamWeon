@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=b7acfa&height=300&section=header&text=circle-done&fontSize=90&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=b7acfa&height=200&section=header&text=circle-done&fontSize=90&fontColor=fff&fontAlignY=40)
 
 <div align="center">
   <h3>✨ I'm learning ✨</h3>
